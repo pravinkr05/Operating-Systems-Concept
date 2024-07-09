@@ -1,4 +1,4 @@
-It looks like you’ve successfully compiled and executed your program, which involves creating processes with `fork()`. Here’s a brief description for your README file based on the output you provided:
+Output:
 
 ---
 
@@ -30,4 +30,4 @@ i am child2 and my siblings id 18953
 
 ---
 
-Feel free to adjust or expand on the information as needed!
+Feel free to modify as needed!
